@@ -1917,14 +1917,3 @@ requests
 openpyxl
 
 ### Excel output
-
-
-**`NIFTY200_Ichimoku_Volume_MACD_Bearish.xlsx`**
-
-with sheet:
-
-**`Bearish Stocks`**
-
-The **highest bearish score is placed first**, Excel filters are enabled, the first row is frozen, and the workbook is timezone-safe.
-
-This is the bearish mirror of the previous scanner; importantly, it uses **FRESH MACD SELL** rather than treating every MACD-below-signal condition as a fresh sell.
