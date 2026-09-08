@@ -1906,7 +1906,6 @@ with st.expander(
         - Below 55 = BEARISH
         """
     )
-```
 
 ### `requirements.txt`
 
