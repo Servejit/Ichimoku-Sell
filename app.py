@@ -1907,13 +1907,5 @@ with st.expander(
         """
     )
 
-### `requirements.txt`
-
-streamlit
-yfinance
-pandas
-numpy
-requests
-openpyxl
 
 ### Excel output
