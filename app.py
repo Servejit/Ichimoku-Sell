@@ -1918,7 +1918,6 @@ openpyxl
 
 ### Excel output
 
-The app creates:
 
 **`NIFTY200_Ichimoku_Volume_MACD_Bearish.xlsx`**
 
