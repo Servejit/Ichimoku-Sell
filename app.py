@@ -1909,14 +1909,12 @@ with st.expander(
 
 ### `requirements.txt`
 
-```text
 streamlit
 yfinance
 pandas
 numpy
 requests
 openpyxl
-```
 
 ### Excel output
 
