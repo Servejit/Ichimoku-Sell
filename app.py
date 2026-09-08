@@ -1930,10 +1930,6 @@ with sheet:
 
 **`Bearish Stocks`**
 
-and the same style of columns as the bullish version, but bearish:
-
-`Stock → Final Bearish Score → Rating → MACD Signal → MACD Cross Time → MACD Cross Age → Price → 5M Score → 15M Score → 1H Score → Volume Ratios → MACD → Ichimoku values → Cross Time/Age`
-
 The **highest bearish score is placed first**, Excel filters are enabled, the first row is frozen, and the workbook is timezone-safe.
 
 This is the bearish mirror of the previous scanner; importantly, it uses **FRESH MACD SELL** rather than treating every MACD-below-signal condition as a fresh sell.
